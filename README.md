@@ -97,7 +97,7 @@ To upload
 > **Note:** The above program is written for an **ESP32** using the `WiFi.h` library. Replace the Wi-Fi credentials, MQTT broker address, and MQTT topic with the values used in the laboratory setup.
 
 # Observation
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d6ab523d-b4f1-4a85-a851-d6e8670d7dc8" />
 
 # Result
 
